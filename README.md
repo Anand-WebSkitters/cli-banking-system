@@ -1,4 +1,4 @@
-# CLI Banking System
+# Banking System - CLI
 
 
 ### Some Git Commands
